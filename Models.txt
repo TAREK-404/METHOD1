@@ -1,1 +1,1 @@
-Mozilla/5.0 (Linux; Android 11; SM-A105F Build/RP1A.200720.012; wv)
+Mozilla/5.0 (Linux; Android 11; SM-A525F Build/RP1A.200720.012; wv)
