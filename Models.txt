@@ -201,14 +201,6 @@ Mi 9T
 Mi A3
 Mi A2
 Redmi 5 Plus
-vivo 1906
-vivo 1938
-vivo 1601
-vivo 1920
-vivo 1801
-vivo 1935
-vivo 1724
-vivo 1901
 CPH1915
 CPH2025
 CPH1819
